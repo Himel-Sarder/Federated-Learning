@@ -91,17 +91,7 @@ This assumption holds reasonably well for IID data, but breaks for Non-IID data.
 
 ## 5. Simple Mathematical Intuition
 
-In FedAvg, the server updates:
-
-[
-w_{t+1} = \sum_{k=1}^{K} \frac{n_k}{N} w_t^k
-]
-
-For IID data:
-Each ( w_t^k ) is trained on similar distributions, so averaging works well.
-
-For Non-IID data:
-Each ( w_t^k ) is biased toward local distributions, so averaging conflicting updates leads to suboptimal global updates.
+<img width="968" height="350" alt="image" src="https://github.com/user-attachments/assets/22763eff-15cc-4167-bbf6-11e3244f8389" />
 
 ---
 
