@@ -1,5 +1,5 @@
+<img width="1034" height="512" alt="image" src="https://github.com/user-attachments/assets/c0850033-e237-4021-b864-3963c89e78d0" />
 
-<img width="861" height="427" alt="image" src="https://github.com/user-attachments/assets/0e0f4fb8-263d-4a46-861b-089b95c6a91b" />
 
 ## Flower Architecture (Federated Learning Framework)
 
