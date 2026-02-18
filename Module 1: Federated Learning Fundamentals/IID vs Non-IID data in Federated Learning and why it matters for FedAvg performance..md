@@ -1,7 +1,4 @@
-
-**IID vs Non-IID data in Federated Learning and why it matters for FedAvg performance**:
-
----
+<img width="641" height="453" alt="image" src="https://github.com/user-attachments/assets/62dfa446-4bed-4574-aaed-ca6e8447a413" />
 
 ## 1. What is IID Data in Federated Learning?
 
