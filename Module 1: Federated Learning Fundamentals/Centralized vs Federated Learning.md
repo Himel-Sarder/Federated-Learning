@@ -1,3 +1,5 @@
+<img width="850" height="421" alt="image" src="https://github.com/user-attachments/assets/d1d70f9f-7267-47f6-9414-0c11151fe546" />
+
 ## 1. Centralized Learning
 
 ### Definition
