@@ -80,5 +80,3 @@ Hospitals keep patient data locally and only share trained model updates to coll
 | Security risk     | High impact if server is compromised | Lower risk to raw data              |
 | System complexity | Low                                  | Higher                              |
 | Failure point     | Single point of failure              | More resilient                      |
-If you want, I can continue with the next topic in Module 1:
-Client–Server architecture in Federated Learning and the FedAvg algorithm.
