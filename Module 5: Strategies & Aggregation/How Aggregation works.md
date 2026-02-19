@@ -37,16 +37,7 @@ In Flower, aggregation is controlled by the **strategy** (most commonly **FedAvg
 ---
 
 ## FedAvg Aggregation Formula
-
-[
-w_{t+1} = \sum_{k=1}^{K} \frac{n_k}{N} , w_t^k
-]
-
-Where:
-
-* ( w_t^k ) = model parameters from client (k)
-* ( n_k ) = number of samples on client (k)
-* ( N = \sum_{k=1}^{K} n_k )
+<img width="964" height="307" alt="image" src="https://github.com/user-attachments/assets/cafe8e70-591a-4bb6-bb56-50c6dd71f38b" />
 
 This gives more weight to clients with more data.
 
