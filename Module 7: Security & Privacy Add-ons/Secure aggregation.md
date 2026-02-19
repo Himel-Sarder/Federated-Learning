@@ -61,12 +61,6 @@ In practice (for thesis/experiments):
 * Optionally integrate a secure aggregation protocol
 * Or use Flower-compatible setups with secure aggregation in deployment environments
 
-**Thesis-ready sentence:**
-
-> Secure aggregation ensures that the server only observes aggregated client updates and cannot access any individual client’s model updates, thereby mitigating gradient leakage risks in federated learning.
-
----
-
 ## Comparison: Secure Aggregation vs Differential Privacy
 
 | Aspect                                  | Secure Aggregation     | Differential Privacy    |
@@ -78,21 +72,6 @@ In practice (for thesis/experiments):
 | Complexity                              | High (cryptography)    | Medium                  |
 | Typical use                             | Protocol-level privacy | Algorithm-level privacy |
 
----
-
-## One-Line Exam Answer
-
-Secure aggregation is a protocol that hides individual client updates from the server by allowing only the aggregated model update to be revealed during federated learning.
-
----
-
-## Thesis-Ready Short Paragraph
-
-You can write:
-
-> Secure aggregation is a protocol-level privacy mechanism in federated learning that prevents the server from accessing individual client updates by revealing only their aggregated sum. This mitigates gradient leakage and reduces the risk of sensitive information inference from client model updates, without introducing utility loss.
-
----
 
 ## Light “Conceptual Demo” (Not Real Secure Aggregation)
 
