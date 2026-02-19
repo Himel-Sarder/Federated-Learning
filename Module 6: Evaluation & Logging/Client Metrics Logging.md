@@ -1,4 +1,3 @@
-Great — here’s the next part of **Module 6: Evaluation & Logging** you asked for.
 ## 1) Client Metrics Logging (clean logging per round)
 
 Add proper logging inside your client `evaluate()` so you can see per-client metrics in the console and return them to the server.
